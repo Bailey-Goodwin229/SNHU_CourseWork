@@ -1,1 +1,3 @@
 # CS210
+
+This a collection of the projects that I have worked on over the course of my Computer Science course 210: Programming Languages, This course focused on learning and using the C++ programming language. There are Three projects which I have uploaded, the first being an app that helps people with investments given an input of certain criteria. The second project is a clock that can tell the time in 12-hour and 24-hour format along with add or take away time from the clock. The last project is an application that takes input from a grocery store file, and determines the frequency of that item and then outputs it based on user input.
