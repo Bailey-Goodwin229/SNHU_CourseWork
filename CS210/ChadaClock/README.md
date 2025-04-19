@@ -1,1 +1,3 @@
+Chada Tech has domestic and international clients. To meet international standard ISO 8601, Chada Tech wants their clients to be able to view a 12- and a 24-hour clock on their website rather than just the standard 12-hour clock.
 
+This project is a clock that takes a user input of the hour, the minute, and the second for the time you want to enter. It then displays the time for both the 12-hour clock and the 24 hour clock. A menu is display asking if the user wants to add an hour, a minute or a second to the original time, there is also an option to exit the clock application. There is validation so the clock stays within a 12 hour time period for the first clock and it prints AM or PM according to what time of day it is.
