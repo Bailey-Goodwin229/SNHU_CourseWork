@@ -1,1 +1,1 @@
-
+This contains the collected work from the class DAD 220 which was about using the database language SQL, the assignments in here include things such as creating databases and using commands to manipulate the information in these databases.
