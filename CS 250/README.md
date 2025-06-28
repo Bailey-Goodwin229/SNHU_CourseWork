@@ -1,1 +1,1 @@
-
+This is the collected work that I've done for the class CS 250 The software developement lifecycle, this includes my journals and finsal projects along with some of the codding assignmentd I worked on throughout the course.
