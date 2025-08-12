@@ -1,1 +1,1 @@
-
+This is a composition of the various writing assignments I did throughout the course which includes writing about storage for a gaming application, breaking down a UML Model, looking at REST API protocols and doing a design document for ChatAway.
