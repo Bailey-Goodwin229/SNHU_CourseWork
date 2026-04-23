@@ -2,6 +2,8 @@ This project is a Python-based application that integrates a CRUD (Create, Read,
 
 Building on this functionality, an interactive dashboard was developed using the Dash framework to provide a user-friendly frontend interface. The dashboard allows users to filter dogs based on rescue categories, view geolocation data for selected animals, and visualize breed distribution through a dynamic chart. This combination of backend data processing and frontend visualization enables efficient exploration of the AAC dataset.
 
+Reflection:
+
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
 To write programs that are maintainable, readable, and adaptable, I create modular programs broken into parts that can be used for many purposes. I also write clear documentation to explain functionality. For example, using the CRUD module from Project One to create the Dash component for Project Two allowed for code reusability across different database projects.
