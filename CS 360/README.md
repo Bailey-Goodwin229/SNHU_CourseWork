@@ -3,9 +3,11 @@ Project Overview
 This repository contains a fully functional Android inventory management application designed to track stock levels, manage records, and provide real-time status alerts. The project demonstrates a complete development lifecycle, moving from initial requirements gathering to user interface prototyping and database-driven code implementation.
 
 Reflection & Course Journal
-1. App Requirements, Goals, and User NeedsThe primary goal of this project was to develop an agile inventory management application that provides users with real-time updates when stock reaches critical thresholds. The app was designed to assist companies in seamlessly managing their operations by allowing users to add, remove, and update inventory items based on fluctuating stock levels. To ensure security and data integrity, the application features a robust login system where users can create secure accounts and authenticate. Both the inventory records and user account credentials are housed in local SQLite databases, ensuring that all data is securely stored, persistent, and accessible when needed.
+1. App Requirements, Goals, and User Needs
 
-2. User-Centered UI Design & Success
+The primary goal of this project was to develop an agile inventory management application that provides users with real-time updates when stock reaches critical thresholds. The app was designed to assist companies in seamlessly managing their operations by allowing users to add, remove, and update inventory items based on fluctuating stock levels. To ensure security and data integrity, the application features a robust login system where users can create secure accounts and authenticate. Both the inventory records and user account credentials are housed in local SQLite databases, ensuring that all data is securely stored, persistent, and accessible when needed.
+
+3. User-Centered UI Design & Success
 To support user needs and deliver a user-centered interface, the application utilizes four key screens:
 
 Login Screen: Secures the application and handles user account creation.
