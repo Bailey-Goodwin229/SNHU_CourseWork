@@ -1,4 +1,5 @@
 Project Overview
+
 This repository contains a fully functional Android inventory management application designed to track stock levels, manage records, and provide real-time status alerts. The project demonstrates a complete development lifecycle, moving from initial requirements gathering to user interface prototyping and database-driven code implementation.
 
 Reflection & Course Journal
